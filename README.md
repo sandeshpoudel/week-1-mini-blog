@@ -1,9 +1,3 @@
-Perfect idea ✅ Having a `README.md` makes your repo look professional.
-Here’s a simple **beginner-friendly README** for your **Week 1 Mini Blog Project**:
-
----
-
-````markdown
 # 📝 Week 1 — Mini Blog (Laravel)
 
 This is a **Week 1 learning project** built with [Laravel](https://laravel.com/).  
